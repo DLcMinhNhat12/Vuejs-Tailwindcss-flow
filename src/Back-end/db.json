@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Lenovo Legion 5",
+      "price": "279000000",
+      "description": "Một sản phẩm hot năm 2023 Laptop Gaming đến từ nhà Lenovo",
+      "id": "rovKMQRGxpAUUQet_dE7W"
+    },
+    {
+      "name": "Iphone 12",
+      "price": "24000000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "id": "oPSzE11HGgfcH0LJ4aSfd"
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": "29000000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 13",
+      "id": "zNvvtwcCjXbTrr-G9vpfY"
+    },
+    {
+      "name": "Asus TUF Gaming",
+      "price": "1234567",
+      "description": "Thông tin chi tiết sản phẩm Asus Gaming",
+      "id": "6gbdwPdn0LypjbUM930NU"
+    },
+    {
+      "name": "Test product1",
+      "price": "1000000",
+      "description": "Test product\n",
+      "id": "-a_gauiiNLbvwbxDvNecB"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrators",
+      "email": "admin@gmail.com",
+      "password": 123456
+    },
+    {
+      "name": "Minhnhat12",
+      "email": "minhnhat12@gmail.com",
+      "password": "123456",
+      "id": "kkKxeGjj6xBMMk2nifLtq"
+    }
+  ]
+}
